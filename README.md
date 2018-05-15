@@ -1,5 +1,6 @@
 # Mapas
-Uso simple de google maps con Laravel 5.6
+Uso simple de google maps con Laravel 5.6 en donde puedes manipular la latitud y longitud simplemente arrastrando el marcador.
+
 
 ## Construido con
 * [Laravel PHP framework](https://github.com/laravel/laravel) -  PHP framework
@@ -28,10 +29,11 @@ php artisan migrate
 ```
 http://127.0.0.1:8000
 ```
-## Autor
-
-*  [jesusave](https://github.com/jesusave)
 
 ![alt text](https://github.com/jesusave/maps/blob/master/public/uno.png)
 ![alt text](https://github.com/jesusave/maps/blob/master/public/dos.png)
 ![alt text](https://github.com/jesusave/maps/blob/master/public/tres.png)
+
+## Autor
+
+*  [jesusave](https://github.com/jesusave)
