@@ -3,7 +3,7 @@ Uso simple de google maps con Laravel 5.6
 
 ## Construido con
 * [Laravel PHP framework](https://github.com/laravel/laravel) -  PHP framework
-* [JQuery Location Picker plugin](https://github.com/Logicify/jquery-locationpicker-plugin) - Dependencia
+* [JQuery Location Picker plugin](https://github.com/Logicify/jquery-locationpicker-plugin) - Plugin
 * [Laravel Google Maps](https://github.com/farhanwazir/laravelgooglemaps) - Dependencia
 
 ### Instalación
