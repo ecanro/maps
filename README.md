@@ -3,8 +3,8 @@ Uso simple de google maps con Laravel 5.6
 
 ## Construido con
 * [Laravel PHP framework](https://github.com/laravel/laravel) -  PHP framework
-* [JQuery Location Picker plugin](https://github.com/Logicify/jquery-locationpicker-plugin) - Dependency Management
-* [Laravel Google Maps](https://github.com/farhanwazir/laravelgooglemaps) - Dependency Management
+* [JQuery Location Picker plugin](https://github.com/Logicify/jquery-locationpicker-plugin) - Dependencia
+* [Laravel Google Maps](https://github.com/farhanwazir/laravelgooglemaps) - Dependencia
 
 ### Instalación
 
@@ -32,3 +32,6 @@ http://127.0.0.1:8000
 
 *  [jesusave](https://github.com/jesusave)
 
+![alt text](https://github.com/jesusave/maps/blob/master/public/uno.png)
+![alt text](https://github.com/jesusave/maps/blob/master/public/dos.png)
+![alt text](https://github.com/jesusave/maps/blob/master/public/tres.png)
