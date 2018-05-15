@@ -28,7 +28,7 @@ php artisan migrate
 ```
 http://127.0.0.1:8000
 ```
-## Authors
+## Autor
 
-* **Jesus Avelar** - [jesusave](https://github.com/jesusave)
+*  [jesusave](https://github.com/jesusave)
 
